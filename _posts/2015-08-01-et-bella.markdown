@@ -3,6 +3,7 @@ layout: post
 title:  "Et bella"
 date:   2015-08-01 21:53:18
 categories: jekyll update
+featured: true
 ---
 
 ## Claudit annis
