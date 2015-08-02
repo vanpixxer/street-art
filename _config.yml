@@ -7,7 +7,20 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://spray-bomb.com" # the base hostname & protocol for your site
 twitter_username: darrellchaddock
 github_username:  vanpixxer
-behance_username: Vanpixxer
+behance_username: Deemixx
+flickr_username: Darrell Chaddock
 
+permalink: /:categories/:title
+
+links:
+  - title: "Home"
+    href: "/"
+  - title: "About"
+    href: "/about/"
+  - title: "Gallery"
+    href: "/gallery/"
+  - title: "Contact"
+    href: "/contact/"   
+    
 # Build settings
 markdown: kramdown
