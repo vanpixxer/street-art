@@ -67,3 +67,14 @@ h3 a {
     margin: 0 0 .5em;
   }
 }
+
+// sections
+
+.site-section {
+  @extend %clearfix;
+  padding-top: $h1-font-size;
+}
+
+.site-section-last {
+  padding-bottom: $h1-font-size;
+}
