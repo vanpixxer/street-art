@@ -2,7 +2,7 @@
 layout: post
 title: post-4
 date: 2015-08-01 8:45:18
-categories: jekyll update
+categories: blog
 tags: logo
 ---
 
